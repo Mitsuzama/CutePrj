@@ -1,2 +1,2 @@
 # CutePrj
- A repository for my little projects
+ A repository containing and old-school-cool game, following a little fox in her adventure
